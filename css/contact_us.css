@@ -1,0 +1,65 @@
+/** Created by Ellery on 2017/7/11. **/
+
+/*body*/
+#body_box{
+    width:1200px;
+    margin:0 auto;
+    padding:56px 0 0 10px;
+}
+/*body_nav*/
+#bodynav_box{
+    width:160px;
+    float: left;
+}
+#bodynav_box dd{
+    font-size: 18px;
+    color: #292929;
+}
+#bodynav_box dl div{
+    height:2px;
+    width:32px;
+    background:#4c98ff;
+    margin:7px 0 9px 0;
+}
+#bodynav_box img{
+    float: left;
+    margin-right: 10px;
+    padding-top: 6px;
+}
+#bodynav_box dt{
+    padding-top: 3px;
+}
+#bodynav_box dt a{
+    font-size: 14px;
+}
+#bodynav_box .bodynav_now a{
+    color: #4c98ff;
+}
+#bodynav_box .line{
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 7px;
+    margin-bottom: 3px;
+}
+#text_box{
+    float: left;
+    width:992px;
+    margin-left: 40px;
+    padding-top:6px;
+}
+#text_box .line{
+    border-bottom: 1px solid #e1e1e1;
+}
+#text_box .line h1{
+    padding-bottom: 8px;
+}
+#shuer_text h1{
+    font-size: 24px;
+    padding:26px 0 13px 0;
+}
+#shuer_text p{
+    font-size: 14px;
+    line-height: 22px;
+}
+#text_box iframe{
+    margin: 30px 0 100px 0;
+}

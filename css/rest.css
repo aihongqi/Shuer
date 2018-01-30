@@ -1,0 +1,34 @@
+/*CSS重置*/
+*{
+	font-size:12px;
+	font-family:"微软雅黑";
+	color:#6a6a6a;
+	font-weight: normal;
+}
+body,ul,li,p,h1,h2,input,dl,dd,span{
+	margin:0;
+	padding:0;
+}
+ul,li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+img{
+	display: block;
+	border: none;
+}
+input{
+	border:none;
+	background: transparent;
+	outline:none;
+}
+
+
+
+/*公用部分*/
+.clearfix{
+	clear: both;
+}
+	

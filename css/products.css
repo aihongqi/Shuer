@@ -1,0 +1,115 @@
+/** Created by Ellery on 2017/7/11. **/
+
+/*body*/
+#body_box{
+    width:1200px;
+    margin:0 auto;
+    padding:30px 0 0 40px;
+}
+    /*body_nav*/
+#bodynav{
+    width:270px;
+    margin:0 auto;
+    border-bottom: 1px solid white
+}
+
+#bodynav li{
+    float: left;
+    margin:0 14px 0 15px;
+    font-size: 18px;
+    position: relative;
+    cursor: pointer;
+}
+#bodynav > li > a{
+    font-size: 18px;
+}
+#bodynav li dl{
+    width:158px;
+    height:308px;
+    border:1px solid #e1e1e1 ;
+    position:absolute;
+    padding:16px 0 0 17px;
+    top:30px;
+    left:-10px;
+    background: white;
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.13);
+}
+#bodynav li dl img{
+    position: absolute;
+    top:-6px;
+    left:10px;
+}
+#bodynav li dl dt{
+    margin-bottom: 30px;
+}
+.active_color{
+    color:#4c98ff;
+}
+
+
+    /*products*/
+#product_box ul li{
+    float: left;
+    width: 280px;
+    height:320px;
+    margin: 0 10px 40px 10px;
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+.big_prodct_box{
+    width:300px;
+    height:340px;
+}
+#product_box ul li div{
+    border-top:1px solid #e1e1e1;
+    margin-bottom: 8px;
+}
+#product_box ul li a{
+    font-size: 16px;
+    color: #292929;
+}
+
+
+    /*page button*/
+#page_box{
+    padding-bottom: 40px;
+}
+#page_box ul li{
+    float: left;
+}
+#page_box ul{
+    width:230px;
+    margin:0 auto;
+}
+#pre_page,#next_page{
+    width:68px;
+    border:1px solid #cccccc;
+    text-align: center;
+    line-height: 28px;
+    border-radius: 4px;
+}
+
+#page_box ul li a{
+    color: #c5c5c5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

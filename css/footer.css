@@ -1,0 +1,109 @@
+/*footer*/
+	/*footer_nav_box*/
+#footer_nav_box{
+	width:1200px;
+	margin: 0 auto;
+	border-top: 1px solid #d3d4db;
+	border-bottom: 1px solid #d3d4db;
+	padding-bottom:43px;
+}
+#footer_nav_box > div{
+	width:1000px;
+	margin: 0 auto;
+}
+#footer_nav_box >div> dl{
+	float:left;
+	padding-top: 56px;
+}
+#footer_nav_box >div> dl > dt{
+	float: left;
+	font-size: 18px;
+	color: #4c98ff;
+	padding-bottom: 25px;
+}
+#footer_nav_box > div > dl > dd{
+	padding-bottom: 15px;
+}
+#footer_nav_box dd a{
+	color:#93959b;
+}
+#footer_nav_box .space{
+	margin-right: 112px;
+}
+
+
+	/*contact*/
+#contact_box{
+	width:1200px;
+	margin: 0 auto;
+	padding: 30px 0 30px 0;
+}
+#contact_box .circle{
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	border: 1px solid #93959b;
+	margin-right: 10px;
+}
+#contact_box #phone,#contact_box #message,#contact_box #phone > div,#contact_box #message > div,#contact_box #location > div{
+	float:left;
+}
+#contact_box #location{
+	float:right;
+}
+#contact_box #phone{
+	margin-right: 250px;
+}
+#contact_box h1,#contact_box h2{
+	color:#8c8f95;
+}
+#contact_box h1{
+	margin:7px 0 4px 0;
+}
+
+
+	/*copyr*/
+#copyr_box{
+	width:100%;
+	background: #1c202a;
+}
+
+#copyr_box > div{
+	max-width: 1200px;
+	color:#93959b;
+	line-height: 30px;
+	padding-left: 10px;
+	margin: 0 auto;
+}
+
+/*
+#copyr_box > div > a{
+	color:#93959b;
+}
+.box_left,.box_right{
+	width:14%;
+	height:10px;
+	float: left;
+	background:gray;
+}
+.box_middle{
+	width:70%;
+	float: left;
+	color:#93959b;
+	line-height: 30px;
+	padding-left: 10px;
+	background: gold;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+

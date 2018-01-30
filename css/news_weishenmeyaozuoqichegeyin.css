@@ -1,0 +1,47 @@
+/*
+************************************************************
+* Created by Ellery on 2017/7/13. *
+************************************************************
+GO!!GO!!GO!!GO!!GO!!GO!!GO!!GO!!GO!!
+************************************************************
+*/
+
+
+#news_box{
+    max-width:1160px;
+    margin:0 auto;
+    padding:52px 20px 0;
+}
+#news_title{
+    border-bottom: 1px solid #e1e1e1;
+    margin-bottom: 40px;
+}
+#news_title h1{
+    font-size: 30px;
+    font-weight: bold;
+    color:#333;
+    padding-bottom: 11px;
+}
+#news_title p {
+    font-size: 16px;
+    color:#93959b;
+    padding-bottom: 16px;
+}
+.news_text p,#news_bottom p{
+    font-size: 18px;
+    color: #292929;
+    text-indent: 2em;
+}
+.news_text p{
+    padding:36px 0;
+}
+.news_text img{
+    margin:0 auto;
+}
+
+
+
+
+
+
+

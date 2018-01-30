@@ -1,0 +1,69 @@
+/*
+************************************************************
+* Created by Ellery on 2017/7/12. *
+************************************************************
+What's your dream?
+************************************************************
+*/
+
+
+#ex{
+    max-width:1160px;
+    margin:0 auto;
+    padding:40px 20px 30px;
+}
+#ex .text_box{
+    width:660px;
+    float: right;
+}
+#ex .img_box{
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.3);
+    width:460px;
+    float: left;
+}
+#ex dl{
+    width:1160px;
+    padding:30px 0;
+}
+#ex .line{
+    border-bottom: 1px solid #cce1ff;
+}
+#ex .text_box h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #333;
+    padding: 2px 0 23px;
+}
+#ex .text_box p{
+    text-indent: 2em;
+    font-size: 14px;
+}
+
+/*page button*/
+#page_box{
+    padding-bottom: 40px;
+}
+#page_box ul li{
+    float: left;
+}
+#page_box ul{
+    width:230px;
+    margin:0 auto;
+}
+#pre_page,#next_page{
+    width:68px;
+    border:1px solid #cccccc;
+    text-align: center;
+    line-height: 28px;
+    border-radius: 4px;
+}
+
+#page_box ul li a{
+    color: #c5c5c5;
+}
+
+
+
+
+
+
